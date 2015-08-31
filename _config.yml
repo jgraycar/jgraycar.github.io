@@ -41,3 +41,12 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      client-url: '#'

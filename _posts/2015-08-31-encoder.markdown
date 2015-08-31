@@ -1,0 +1,12 @@
+---
+title: Encoder
+layout: default
+modal-id: 2
+date: 2015-08-31
+img: encoder.png
+alt: image-alt
+project-date: March 2014
+category: Desktop Application
+
+---
+**woooooooo so cool yoooo**
