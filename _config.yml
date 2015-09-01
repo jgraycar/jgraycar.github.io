@@ -42,6 +42,28 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 markdown: kramdown
 permalink: pretty
 
+# Career events
+events:
+  - image: "/img/career/yelp.png"
+    date: "May 2015 - August 2015"
+    description: "Software Engineering Intern @ Yelp, working on the <a href=\"http://seatme.yelp.com\" target=\"_blank\">SeatMe</a> team as a Full-Stack Web Developer."
+
+  - image: "/img/career/berkeley_law.png"
+    date: "June 2014 - February 2015"
+    description: "Student Web Applications Programmer @ <a href=\"http://www.law.berkeley.edu\" target=\"_blank\">Berkeley Law School</a>."
+
+  - image: "/img/career/decision_next.png"
+    date: "May 2013 - September 2013"
+    description: "Data Analysis Intern @ <a href=\"http://decisionnext.com/\" target=\"_blank\">DecisionNext</a>."
+
+  - image: "/img/career/caltaiko.png"
+    date: "September 2012 - Today"
+    description: "Performing Member of <a href=\"http://www.caltaiko.org\" target=\"_blank\">Cal Raijin Taiko</a>. Over four years served as Performance Coordinator, Treasurer, Website Manager, and Director."
+
+  - image: "/img/career/berkeley.png"
+    date: "August 2012 - Today"
+    description: "Undergraduate Student @ the <a href=\"https://www.berkeley.edu\" target=\"_blank\">University of California, Berkeley</a>, majoring in Computer Science."
+
 # Default settings
 defaults:
   -
