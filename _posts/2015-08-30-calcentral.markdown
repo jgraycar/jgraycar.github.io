@@ -10,4 +10,4 @@ client-url: http://law.berkeley.edu
 category: Web Development
 
 ---
-CalCentral is a student portal website used by the students of UC Berkeley.
+[CalCentral](http://calcentral.berkeley.edu) is a student portal website used by the students of UC Berkeley.

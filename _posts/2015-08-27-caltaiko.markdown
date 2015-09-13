@@ -11,6 +11,18 @@ client-url: http://www.caltaiko.org
 category: Web Development
 
 ---
-New WEBSITE **OMGGGGGGGG**
+**Cal Raijin Taiko** is UC Berkeley's Japanese drumming performance ensemble,
+founded in 2005. I joined the team my first year of college, in 2012. Though
+the team had an existing website already, it was difficult to update and
+maintain, as it required someone with the knowledge and experience to remote
+login to a server and edit the HTML of the live site.
 
-It's so *prettyyyyyyyyy*
+In the summer of 2014, I decided to try and create a new web app for the team
+that would simplify the upkeep process significantly. [My solution][GitHub]
+was a Ruby on Rails app that allowed authorized users to log in and update the
+site using simple forms and intuitive interactions. When the new site [went
+live][caltaiko] that September, it was incredibly rewarding to see the fruits
+of my summer labor pay off.
+
+[GitHub]: https://github.com/calraijintaiko/caltaiko
+[caltaiko]: http://www.caltaiko.org
