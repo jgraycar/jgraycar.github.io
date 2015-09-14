@@ -414,6 +414,21 @@ footer .footer-below {
     margin: 30px 0;
 }
 
+.portfolio-modal .modal-content .item-details .fa-github {
+    font-size: 27px;
+    position: relative;
+    top: 3px;
+    color: #2c3e50;
+}
+
+.portfolio-modal .modal-content .item-details .fa-github:hover {
+    color: #18bc9c;
+}
+
+.portfolio-modal .modal-content .item-details strong {
+    color: #18bc9c;
+}
+
 .portfolio-modal .modal-content .post-content {
     text-align: left;
 }

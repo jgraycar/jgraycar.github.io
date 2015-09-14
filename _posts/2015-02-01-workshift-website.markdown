@@ -2,12 +2,13 @@
 title: BSC Workshift Website
 layout: default
 modal-id: 3
-date: 2015-02-16
+date: 2015-02-01
 img: workshift.jpg
 alt: image-alt
 project-date: February 2015
 client: Berkeley Student Cooperative
 client-url: http://www.bsc.coop
+source-url: https://github.com/bsc-networks/workshift-website
 category: Web Development
 
 ---

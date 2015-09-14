@@ -2,12 +2,13 @@
 title: caltaiko.org
 layout: default
 modal-id: 6
-date: 2015-08-27
+date: 2014-06-01
 img: caltaiko.png
 alt: image-alt
 project-date: June 2014
 client: Cal Raijin Taiko
 client-url: http://www.caltaiko.org
+source-url: https://github.com/calraijintaiko/caltaiko
 category: Web Development
 
 ---

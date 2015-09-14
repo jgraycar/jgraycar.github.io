@@ -1,0 +1,17 @@
+---
+title: Encoder
+layout: default
+modal-id: 2
+date: 2014-03-01
+img: encoder.png
+alt: image-alt
+project-date: March 2014
+source-url: https://github.com/jgraycar/Encoder
+category: Desktop Application
+
+---
+One of the classes I've enjoyed most as an undergrad was [CS70][cs70], a course on Discrete Mathematics and probability theory. In particular, I was fascinated by our studies on modular arithmetic, and how it related to cryptography.
+
+As we covered RSA encryption and Fermat's Little Theorem, I began thinking about how I might implement an encryption algorithm on my own. Using the topics we learned that semester, I came up with Encoder: a desktop application made using Java Swing that utilizes modular arithmetic to encrypt files at the byte level.
+
+[cs70]: http://inst.eecs.berkeley.edu/~cs70/sp14/

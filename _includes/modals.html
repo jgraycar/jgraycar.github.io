@@ -24,13 +24,16 @@
                                     </li>
                                 {% endif %}
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
+                                <strong>{{ post.project-date }}</strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                    </strong>
+                                    <strong>{{ post.category }}</strong>
                                 </li>
+                                {% if post.source-url %}
+                                    <li>
+                                        <a href="{{ post.source-url }}"><i class="fa fa-fw fa-github"></i></a>
+                                    </li>
+                                {% endif %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
