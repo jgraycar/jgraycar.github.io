@@ -419,6 +419,7 @@ footer .footer-below {
     position: relative;
     top: 3px;
     color: #2c3e50;
+    transition: all 0.2s ease-in-out;
 }
 
 .portfolio-modal .modal-content .item-details .fa-github:hover {
