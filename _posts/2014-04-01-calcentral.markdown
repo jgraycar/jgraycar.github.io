@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-04-01
-img: calcentral.jpg
+img: calcentral.png
 alt: image-alt
 project-date: April 2014
 client: Berkeley Law School
