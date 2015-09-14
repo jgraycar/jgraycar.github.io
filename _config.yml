@@ -1,8 +1,8 @@
 # Site settings
 title: Joel Graycar
 email: j.cx.graycar@gmail.com
-url: https://greytoyota.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: http://www.jgraycar.com
+description: "Joel is a full-stack web developer from San Francisco, California. Check out his past experience, as well as some of the projects he's worked on!"
 skills: "Full Stack Web Developer"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
