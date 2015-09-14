@@ -211,6 +211,23 @@ section.success a {
     max-width: 400px;
 }
 
+#portfolio .portfolio-item .portfolio-title-link:hover {
+    color: #18BC9C;
+    text-decoration: none;
+}
+
+#portfolio .portfolio-item .portfolio-title-link {
+    color: #2C3E50;
+    display: block;
+    font-size: 23px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    -webkit-transition: all ease .3s;
+    -moz-transition: all ease .3s;
+    transition: all ease .3s;
+}
+
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
@@ -420,6 +437,8 @@ footer .footer-below {
     top: 3px;
     color: #2c3e50;
     transition: all 0.2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
 }
 
 .portfolio-modal .modal-content .item-details .fa-github:hover {

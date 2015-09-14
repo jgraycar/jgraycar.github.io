@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: CalCentral
 date: 2014-04-01
 img: calcentral.png
 alt: image-alt

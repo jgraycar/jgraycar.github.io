@@ -1,5 +1,5 @@
 ---
-title: BSC Workshift Website
+title: BSC Workshift Scheduler
 layout: default
 modal-id: 3
 date: 2015-02-01
